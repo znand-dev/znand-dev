@@ -13,9 +13,6 @@
 - **WireGuard, Hysteria, SSH Tunneling** — Low-latency, secure networking
 - **GitHub Actions + GoReleaser** — CI/CD pipelines and release automation
 
----
-
-## 🛠️ Tools I've Built
 
 ---
 
