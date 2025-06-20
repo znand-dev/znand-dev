@@ -1,44 +1,36 @@
-# 🛡️ znand-dev — DevOps-Focused Go Developer & Open Source Enthusiast
+<h3 align="center">Hi 👋 </h3>
+<h3 align="center">aka <code>znand-dev</code> · he/him 🧑‍💻</h3>
 
-> Building tools for better observability, performance, and freedom.
-
----
-
-## 🚀 Tech Highlights
-
-### 🔧 Core Stack
-- **Go (Golang)** — Strong focus on backend tools & Prometheus exporters
-- **Docker & Compose** — For containerizing apps and full-stack deployment
-- **Prometheus & Grafana** — Monitoring, alerting, and custom metrics
-- **WireGuard, Hysteria, SSH Tunneling** — Low-latency, secure networking
-- **GitHub Actions + GoReleaser** — CI/CD pipelines and release automation
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=750&lines=🚀+DevOps+%26+Cloud+Enthusiast;🛠️+Prometheus+%7C+Python+%7C+Go+Developer;⚡+Network+Optimizer+%7C+Tunnel+Junkie;🎯+Lagi+ngulik:+K8s%2C+Terraform%2C+Ansible;🧠+Selalu+haus+ilmu+%26+mentoring+komunitas" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧰 Tools & Technologies
+### 🧰 Tech Stack & Tools
 
-| Category            | Stack / Tools                                                              |
-|---------------------|----------------------------------------------------------------------------|
-| 🐹 Golang Dev        | Go Modules, HTTP clients, JSON parsing, Prometheus client_golang           |
-| 📈 Monitoring        | Prometheus, Grafana, custom dashboards, Alertmanager ready                 |
-| 🐳 Containerization  | Docker, Docker Compose, Cloudflared Tunnel                                |
-| 🔐 Networking        | WireGuard VPN (with VPS relay), Hysteria VPN, SSH tunneling                |
-| ⚡ Automation        | GitHub Actions, GoReleaser, shell scripting (autoscript menu)              |
-| ⚙️ Hardware / IoT     | WeMos D1 Mini, NFC Wiegand reader, CH340/FTDI                             |
-| 🧪 Data Tools        | Roboflow for computer vision annotation                                   |
-| 🌐 Web & Blogs       | Hexo + GitHub Pages                                                        |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,docker,kubernetes,linux,bash,grafana,prometheus,git,github,vscode,nginx,terraform&perline=8" />
+</p>
 
 ---
 
-## 📚 Learning Journey & Focus
+### 🏢 About Me
 
-I'm currently leveling up in:
-- Kubernetes (K8s) & Helm for container orchestration
-- CI/CD pipelines with GitHub Actions & Docker Registry
-- Building scalable self-hosted tools for observability and infrastructure
+- 🏢 Staff IT Engineer @ **PT. Phylot Solusi Integrasi**
+- 🌍 Based in **Palembang, Sumatra Selatan**
+- 🌐 Personal site: [znand.my.id](https://znand.my.id/)
+- 🧠 Currently deep-diving into **Infra-as-Code**, **Telemetry**, and **Exporters**
+- 🔭 Always tinkering with **Tunneling**, **Latency Optimizing**, and self-hosted dashboards
 
 ---
 
-> "Real engineers build their own tools."  
-> — And you're looking at one 👨‍💻⚙️
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://znand.my.id"><img src="https://img.shields.io/badge/Website-znand.my.id-blueviolet?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://instagram.com/znand_"><img src="https://img.shields.io/badge/Instagram-@znand_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/nannozeta"><img src="https://img.shields.io/badge/Twitter-@nannozeta-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://t.me/nandzie"><img src="https://img.shields.io/badge/Telegram-@nandzie-26A5E4?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://gitlab.com/znand"><img src="https://img.shields.io/badge/GitLab-znand-FC6D26?style=for-the-badge&logo=gitlab" /></a>
+</p>
