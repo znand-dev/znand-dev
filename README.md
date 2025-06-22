@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋 </h3>
-<h3 align="center">aka <code>znand-dev</code> · he/him 🧑‍💻</h3>
+<h3 align="center">Hi, im znand 👋 </h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=750&lines=🚀+DevOps+%26+Cloud+Enthusiast;🛠️+Prometheus+%7C+Python+%7C+Go+Developer;⚡+Network+Optimizer+%7C+Tunnel+Junkie;🎯+Lagi+ngulik:+K8s%2C+Terraform%2C+Ansible;🧠+Selalu+haus+ilmu+%26+mentoring+komunitas" alt="Typing SVG" />
