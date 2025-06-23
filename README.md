@@ -10,7 +10,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,docker,kubernetes,linux,bash,grafana,prometheus,git,github,vscode,nginx,terraform,perline&ansible=8" />
+  <img src="https://skillicons.dev/icons?i=go,python,docker,kubernetes,linux,bash,grafana,prometheus,git,github,vscode,nginx,terraform=7" />
 </p>
 
 ---
