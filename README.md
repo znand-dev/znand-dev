@@ -31,6 +31,7 @@
 <img src="https://skillicons.dev/icons?i=grafana&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=prometheus&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=nginx&theme=light" style="width:36px;" />
+<img src="https://letsencrypt.org/images/letsencrypt-logo-horizontal.svg" alt="Let's Encrypt" width="100" />
 
 <div style="margin-top: 12px;"></div>
 
