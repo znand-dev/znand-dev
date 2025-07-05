@@ -63,9 +63,8 @@ COD, BF series, Delta Force — if it's tactical and explodes, I'm in 🎧💥 p
 
 - Staff IT Engineer @ **PT. Phylot Solusi Integrasi**
 - Based in **Palembang, Sumatra Selatan**
-- Personal site: [znand.my.id](https://znand.my.id/)
 - Currently deep-diving into **Infra-as-Code**, **Telemetry**, and **Exporters**
-- 🔭 Always tinkering with **Tunneling**, **Latency Optimizing**, and self-hosted dashboards
+- Always tinkering with **Tunneling**, **Latency Optimizing**, and self-hosted dashboards
 
 ---
 
