@@ -7,7 +7,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,docker,kubernetes,linux,bash,grafana,prometheus,git,github,vscode,nginx,terraform=7" />
@@ -15,12 +15,12 @@
 
 ---
 
-### 🏢 About Me
+### About Me
 
-- 🏢 Staff IT Engineer @ **PT. Phylot Solusi Integrasi**
-- 🌍 Based in **Palembang, Sumatra Selatan**
-- 🌐 Personal site: [znand.my.id](https://znand.my.id/)
-- 🧠 Currently deep-diving into **Infra-as-Code**, **Telemetry**, and **Exporters**
+- Staff IT Engineer @ **PT. Phylot Solusi Integrasi**
+- Based in **Palembang, Sumatra Selatan**
+- Personal site: [znand.my.id](https://znand.my.id/)
+- Currently deep-diving into **Infra-as-Code**, **Telemetry**, and **Exporters**
 - 🔭 Always tinkering with **Tunneling**, **Latency Optimizing**, and self-hosted dashboards
 
 ---
