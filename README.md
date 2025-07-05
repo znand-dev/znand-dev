@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<strong>Language, Runtime & Environment</strong><br>
+<strong>Language & Environment</strong><br>
 <img src="https://skillicons.dev/icons?i=go&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=python&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=bash&theme=light" style="width:36px;" />
