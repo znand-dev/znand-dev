@@ -45,7 +45,7 @@
 ### 🎮 Gaming Setup & Favorites
 
 When I'm not optimizing servers, I'm out fragging enemies.  
-COD, BF series, Delta Force — if it's tactical and explodes, I'm in 🎧💥
+COD, BF series, Delta Force — if it's tactical and explodes, I'm in 🎧💥 piw piw.. 🔫
 
 <p align="center">
   <img src="assets/mw2.jpeg" alt="MW2" title="Call of Duty: MW2" width="40" style="border-radius: 8px; margin: 4px;" />
