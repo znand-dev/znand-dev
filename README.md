@@ -52,8 +52,6 @@ COD, BF series, Delta Force — if it's tactical and explodes, I'm in 🎧💥
   <img src="assets/dmz.jpg" alt="DMZ" title="DMZ Warzone" width="40" style="border-radius: 8px; margin: 4px;" />
   <img src="assets/bf2042.png" alt="BF2042" title="Battlefield 2042" width="40" style="border-radius: 8px; margin: 4px;" />
   <img src="assets/deltaforce03.jpg" alt="Delta Force" title="Delta Force" width="40" style="border-radius: 8px; margin: 4px;" />
-![Steam](https://img.shields.io/badge/Steam-znand-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-znand%230117-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
