@@ -2,17 +2,45 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=750&lines=🚀+DevOps+%26+Cloud+Enthusiast;🛠️+Prometheus+%7C+Python+%7C+Go+Developer;⚡+Network+Optimizer+%7C+Tunnel+Junkie;🎯+Lagi+ngulik:+K8s%2C+Terraform%2C+Ansible;🧠+Selalu+haus+ilmu+%26+mentoring+komunitas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=750&lines=🚀+DevOps+%26+Cloud+Enthusiast;🛠️+Prometheus+%7C+Python+%7C+Go+Developer;⚡+Network+Optimizer+%7C+Tunnel+Junkie;🎯+Lagi+ngulik:+K8s%2C+Terraform%2C+Ansible;+Selalu+haus+ilmu+%26+mentoring+komunitas" alt="Typing SVG" />
 </p>
 
 ---
 
 ### Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,docker,kubernetes,linux,bash,grafana,prometheus,git,github,vscode,nginx,terraform=7" />
-</p>
+<div align="center">
 
+<strong>Language & Runtime</strong><br>
+<img src="https://skillicons.dev/icons?i=go&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=python&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=bash&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=linux&theme=light" style="width:36px;" />
+
+<div style="margin-top: 12px;"></div>
+
+<strong>DevOps & Cloud</strong><br>
+<img src="https://skillicons.dev/icons?i=docker&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=terraform&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=cloudflare&theme=light" style="width:36px;" />
+
+<div style="margin-top: 12px;"></div>
+
+<strong>Monitoring & Infra</strong><br>
+<img src="https://skillicons.dev/icons?i=grafana&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=prometheus&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=nginx&theme=light" style="width:36px;" />
+
+<div style="margin-top: 12px;"></div>
+
+<strong>Git & Editor</strong><br>
+<img src="https://skillicons.dev/icons?i=git&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=github&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=gitlab&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" style="width:36px;" />
+
+</div>
 ---
 
 ### About Me
