@@ -11,18 +11,21 @@
 
 <div align="center">
 
-<strong>Language & Runtime</strong><br>
+<strong>Language, Runtime & Environment</strong><br>
 <img src="https://skillicons.dev/icons?i=go&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=python&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=bash&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=linux&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=debian&theme=light" style="width:36px;" />
 
 <div style="margin-top: 12px;"></div>
 
 <strong>DevOps & Cloud</strong><br>
 <img src="https://skillicons.dev/icons?i=docker&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=aws&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=terraform&theme=light" style="width:36px;" />
+<img src="https://skillicons.dev/icons?i=githubactions&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=cloudflare&theme=light" style="width:36px;" />
 
 <div style="margin-top: 12px;"></div>
