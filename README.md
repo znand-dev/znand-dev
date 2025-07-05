@@ -30,7 +30,7 @@
 
 <div style="margin-top: 12px;"></div>
 
-<strong>Monitoring & Infrastructure </strong><br>
+<strong>Infrastructure & DBs </strong><br>
 <img src="https://skillicons.dev/icons?i=grafana&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=prometheus&theme=light" style="width:36px;" />
 <img src="https://skillicons.dev/icons?i=mysql&theme=light" style="width:36px;" />
@@ -46,8 +46,6 @@
 <img src="https://skillicons.dev/icons?i=vscode&theme=light" style="width:36px;" />
 
 </div>
-
-### 🎮 Gaming Setup & Favorites
 
 When I'm not optimizing servers, I'm out fragging enemies.  
 COD, BF series, Delta Force — if it's tactical and explodes, I'm in 🎧💥 piw piw.. 🔫
