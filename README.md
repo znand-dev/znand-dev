@@ -42,6 +42,15 @@
 
 </div>
 
+### 🎮 Gaming Setup & Favorites
+
+<p align="center">
+  <img src="assets/mw2.jpeg" alt="MW2" title="Call of Duty: MW2" width="40" style="border-radius: 8px; margin: 4px;" />
+  <img src="assets/dmz.jpg" alt="BF2042" title="Battlefield 2042" width="40" style="border-radius: 8px; margin: 4px;" />
+  <img src="assets/bf2042.png" alt="BFV" title="Battlefield V" width="40" style="border-radius: 8px; margin: 4px;" />
+  <img src="assets/deltaforce.jpg" alt="Delta Force" title="Delta Force" width="40" style="border-radius: 8px; margin: 4px;" />
+</p>
+
 ---
 
 ### About Me
