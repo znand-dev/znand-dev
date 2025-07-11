@@ -11,16 +11,16 @@
 <div align="center">
 
 #### Languages & Environment
-<img src="https://skillicons.dev/icons?i=go,python,bash,js,linux,debian&perline=8" />
+<img src="https://skillicons.dev/icons?i=go,python,bash,js,linux,debian&perline=6" />
 
 #### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,cloudflare,githubactions&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,cloudflare,githubactions&perline=6" />
 
 #### Infrastructures & DBs
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,mysql,sqlite,nginx&perline=8" />
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,mysql,sqlite,nginx&perline=6" />
 
 #### Git & Editor
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&perline=6" />
 
 </div>
 
