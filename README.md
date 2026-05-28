@@ -1,4 +1,4 @@
-<h3 align="center">Hi! I'm znand </h3>
+<h3 align="center">Hello Hi! I'm znand </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=800&lines=+DevOps+%7C+Cloud+%7C+Infra+Enthusiast;Prometheus+%7C+Python+%7C+Golang+Dev;+Exploring:+K8s,+Terraform,+Ansible,+GrafanaStack" alt="Typing SVG" />
@@ -32,7 +32,6 @@
 - Palembang, Sumatera Selatan
 - Fokus ngulik **IaC**, **Monitoring Stack**, dan **Telemetry Exporters**
 - Aktif ngeracik **VPN Tunnel** & dashboard self-hosted  
-- Misi: *"Build faster, monitor deeper, automate everything!"*
 
 ---
 
