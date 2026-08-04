@@ -35,20 +35,6 @@
 
 ---
 
-#<div align="center">
-#  <em>When I'm not optimizing servers, I'm out fragging enemies.<br>
-#  COD, BF series, Delta Force — if it's tactical and explodes, I'm in 🎧💥 </em>
-#</div>
-
-#<p align="center">
-#  <img src="assets/mw2.jpeg" width="50" title="COD MW2" />
-#  <img src="assets/dmz.jpg" width="50" title="DMZ Warzone" />
-#  <img src="assets/bf2042.png" width="50" title="Battlefield 2042" />
-#  <img src="assets/deltaforce03.jpg" width="50" title="Delta Force" />
-#</p>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="center">
