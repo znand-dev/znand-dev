@@ -6,8 +6,6 @@
 
 ---
 
-### Tech Arsenal
-
 <div align="center">
 
 #### Languages & Environment
