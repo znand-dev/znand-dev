@@ -36,7 +36,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://blog.znandev.net"><img src="https://img.shields.io/badge/Website-znand.my.id-blueviolet?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://blog.znandev.net"><img src="https://img.shields.io/badge/Website-znand.dev.net-blueviolet?style=for-the-badge&logo=google-chrome" /></a>
   <a href="https://instagram.com/znand_"><img src="https://img.shields.io/badge/Instagram-@znand_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/nannozeta"><img src="https://img.shields.io/badge/Twitter-@nannozeta-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://t.me/nandzie"><img src="https://img.shields.io/badge/Telegram-@nandzie-26A5E4?style=for-the-badge&logo=telegram" /></a>
