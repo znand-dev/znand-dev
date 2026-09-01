@@ -9,7 +9,7 @@
 <div align="center">
 
 #### Languages & Environment
-<img src="https://skillicons.dev/icons?i=go,python,bash,js,linux,debian&perline=6" />
+<img src="https://skillicons.dev/icons?i=go,js,nextjs,react,python,bash&perline=6" />
 
 #### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,cloudflare,githubactions&perline=6" />
